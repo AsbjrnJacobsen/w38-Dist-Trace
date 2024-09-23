@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\45306\\Desktop\\Studie\\DLS\\W38 - Distributed tracing\\RockPaperScissor-exercise\\RockPaperScissor-2023-exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1451B84-72D9-491F-9983-AF208E035490}|CopyPlayerService\\CopyPlayerService.csproj|c:\\users\\45306\\desktop\\studie\\dls\\w38 - distributed tracing\\rockpaperscissor-exercise\\rockpaperscissor-2023-exercise\\copyplayerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1451B84-72D9-491F-9983-AF208E035490}|CopyPlayerService\\CopyPlayerService.csproj|solutionrelative:copyplayerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D55A979-B262-4774-8D6F-C92D90413B28}|Helpers\\Helpers.csproj|c:\\users\\45306\\desktop\\studie\\dls\\w38 - distributed tracing\\rockpaperscissor-exercise\\rockpaperscissor-2023-exercise\\helpers\\connectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D55A979-B262-4774-8D6F-C92D90413B28}|Helpers\\Helpers.csproj|solutionrelative:helpers\\connectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1451B84-72D9-491F-9983-AF208E035490}|CopyPlayerService\\CopyPlayerService.csproj|c:\\users\\45306\\desktop\\studie\\dls\\w38 - distributed tracing\\rockpaperscissor-exercise\\rockpaperscissor-2023-exercise\\copyplayerservice\\copyplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1451B84-72D9-491F-9983-AF208E035490}|CopyPlayerService\\CopyPlayerService.csproj|solutionrelative:copyplayerservice\\copyplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\45306\\Desktop\\Studie\\DLS\\W38 - Distributed tracing\\RockPaperScissor-exercise\\RockPaperScissor-2023-exercise\\Helpers\\ConnectionHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\ConnectionHelper.cs",
+              "ToolTip": "C:\\Users\\45306\\Desktop\\Studie\\DLS\\W38 - Distributed tracing\\RockPaperScissor-exercise\\RockPaperScissor-2023-exercise\\Helpers\\ConnectionHelper.cs",
+              "RelativeToolTip": "Helpers\\ConnectionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:37:23.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CopyPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\45306\\Desktop\\Studie\\DLS\\W38 - Distributed tracing\\RockPaperScissor-exercise\\RockPaperScissor-2023-exercise\\CopyPlayerService\\CopyPlayer.cs",
+              "RelativeDocumentMoniker": "CopyPlayerService\\CopyPlayer.cs",
+              "ToolTip": "C:\\Users\\45306\\Desktop\\Studie\\DLS\\W38 - Distributed tracing\\RockPaperScissor-exercise\\RockPaperScissor-2023-exercise\\CopyPlayerService\\CopyPlayer.cs",
+              "RelativeToolTip": "CopyPlayerService\\CopyPlayer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:26:41.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\45306\\Desktop\\Studie\\DLS\\W38 - Distributed tracing\\RockPaperScissor-exercise\\RockPaperScissor-2023-exercise\\CopyPlayerService\\Program.cs",
+              "RelativeDocumentMoniker": "CopyPlayerService\\Program.cs",
+              "ToolTip": "C:\\Users\\45306\\Desktop\\Studie\\DLS\\W38 - Distributed tracing\\RockPaperScissor-exercise\\RockPaperScissor-2023-exercise\\CopyPlayerService\\Program.cs",
+              "RelativeToolTip": "CopyPlayerService\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:25:02.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

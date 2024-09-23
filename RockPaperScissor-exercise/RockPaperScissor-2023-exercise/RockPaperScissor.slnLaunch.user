@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CopyPlayerService\\CopyPlayerService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "RandomPlayerService\\RandomPlayerService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GameMasterService\\GameMasterService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
